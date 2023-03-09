@@ -3,9 +3,12 @@ India/Brazil/Southeast Asia/Turkey Teen Patti Game API.
 Support multiple languages
 
 #### Introduce
-Excellent Teen Patti game
-Perfect numerical system and AI experience
-Not only supports Teen Patti, but also dozens of popular games can be accessed simultaneously
+Excellent Teen Patti game.
+
+Perfect numerical system and AI experience.
+
+Not only supports Teen Patti, but also dozens of popular games can be accessed simultaneously.
+
 全球棋牌游戏API接口，支持多种语言丨Global chess and card game API interface, supporting multiple languages
 
 Include Rummy\Teen Patti\7UP7DOWN\Wingo\Slots 等。
