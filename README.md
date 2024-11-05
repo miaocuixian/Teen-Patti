@@ -19,6 +19,8 @@ Telegram：@Jalonex https://t.me/Jalonex
 
 拒绝记者！非诚勿扰！
 
+还有slot合集源码，slot源码下载
+
 #### Game Picture （游戏截图）
 ![Teen Patti](https://user-images.githubusercontent.com/90822325/223895649-00386a2d-7e96-4787-8a9d-ca285635e5cf.jpg)
 ![AK47](https://user-images.githubusercontent.com/90822325/223895669-ace3c83b-0a1e-4118-8898-9b29f57eea48.jpg)
